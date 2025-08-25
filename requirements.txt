@@ -1,0 +1,7 @@
+- Python 3.8+
+- pybullet
+- numpy
+- scipy
+- matplotlib (optional — for plots)
+- pygame (optional — if using a custom renderer)
+- networkx (optional — if using graph-based planners)
